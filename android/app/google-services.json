@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "737062422326",
+    "project_id": "finderhub-ef746",
+    "storage_bucket": "finderhub-ef746.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737062422326:android:a92ba33f53904863085597",
+        "android_client_info": {
+          "package_name": "com.example.finderhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737062422326-q1ljq6b39mpclm80vvued3hj0nsarhov.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.finderhub",
+            "certificate_hash": "ddea49a2f3e5dc716996bf757b3609b37eb650d6"
+          }
+        },
+        {
+          "client_id": "737062422326-l312uuhu267jsj4bu0sumr929hetb6m0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxRFBDIheammqWBcLjkmjlVMrjcF3OGAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737062422326-l312uuhu267jsj4bu0sumr929hetb6m0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
